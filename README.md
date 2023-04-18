@@ -1,4 +1,51 @@
 # Getting Started with Create React App
+# BookMyShow-Clone
+
+This is a clone of book my show app created by using react.In this app i used an tmdb api to show movies.For payment gateway i use razorpay test-demo.
+
+Libraries i used:-
+Axios
+react-router-dom
+react-icons
+react-slick
+
+bundeler:-
+webpack
+
+
+
+
+
+
+
+## Authors
+
+- [Shubham kumar](https://www.github.com/shubh9752)
+
+
+## Environment Variables
+
+To run this project, you will need to add the tmdb API_KEY environment variables to your .env file
+
+`REACT_API_KEY` is a varible in which i used to store my tmdb api key
+
+
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install init
+  cd my-project
+```
+    
+## Deployment
+
+https://book-my-show-clone-alpha-ten.vercel.app/
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
